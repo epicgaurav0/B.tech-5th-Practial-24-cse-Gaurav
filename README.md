@@ -1,2 +1,2 @@
-# B.tech-5th-Practial-24-cse-Gaurav
-Assignment question and there solution
+# BTech-5th-Sem-Practicals
+BTech Computer Science Engineering - Practical Programs.
